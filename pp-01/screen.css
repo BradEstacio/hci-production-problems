@@ -32,3 +32,16 @@ p {
   font-family: 'Rubik', sans-serif;
   margin-bottom: 0.7577431882em; /* whole line 24 / 31,673 =  0.7577431882 */
 }
+
+blockquote {
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+
+.pquote {
+  width: 15.78947368em;
+  font-size: 1.315789474em;
+  font-style: italic;
+  padding: 0.5833333em;
+}
