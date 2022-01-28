@@ -9,26 +9,26 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 
 html {
-  font-size: 19px; /* 19 / 16 = 1.1875 */
-  line-height: 24px /* 24 / 19 = 1.2631578947 */
-  padding: 12px 6px 6px 6px; /* quarter line */
+  font-size: 1.1875em; /* 19 / 16 = 1.1875 */
+  line-height: 1.2631578947em; /* 24 / 19 = 1.2631578947 */
+  padding: 0.5em 0.25em 0.25em 0.25em; /* quarter line */
 }
 
 h1 {
   font-family: 'Merriweather', serif;
-  font-size: 31.673px; /* 31.673 / 19 = 1.667 */
-  line-height: 36px; /* line and a half; 36 / 31.673 = 1.1366147823 */
-  margin-bottom: 24px; /* whole line 24 / 31,673 =  0.7577431882 */
+  font-size: 1.667em; /* 31.673 / 19 = 1.667 */
+  line-height: 1.1366147823em; /* line and a half; 36 / 31.673 = 1.1366147823 */
+  margin-bottom: 0.7577431882em; /* whole line 24 / 31,673 =  0.7577431882 */
 }
 
 h2 {
   font-family: 'Merriweather', serif;
-  font-size: 27.175px; /* 31.673 / 19 = 1.667 */
-  line-height: 36px; /* line and a half; 36 / 31.673 = 1.1366147823 */
-  margin-bottom: 24px; /* whole line 24 / 31,673 =  0.7577431882 */
+  font-size: 27.175px; /* 21.175 / 19 = 1.667 */
+  line-height: 1.1366147823em; /* line and a half; 36 / 31.673 = 1.1366147823 */
+  margin-bottom: 0.7577431882em; /* whole line 24 / 31,673 =  0.7577431882 */
 }
 
 p {
   font-family: 'Rubik', sans-serif;
-  margin-bottom: 24px; /* whole line 24 / 31,673 =  0.7577431882 */
+  margin-bottom: 0.7577431882em; /* whole line 24 / 31,673 =  0.7577431882 */
 }
