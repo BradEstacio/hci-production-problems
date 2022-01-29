@@ -26,6 +26,7 @@ Let’s start with something fun: a typeface-pairing game.
    Typeface One:
      - Name: Merriweather
      - URL: https://fonts.google.com/specimen/Merriweather#standard-styles
+   
    Typeface Two:
      - Name: Rubik
      - URL: https://fonts.google.com/specimen/Rubik#standard-styles
