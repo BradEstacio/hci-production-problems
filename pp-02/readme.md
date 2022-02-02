@@ -21,8 +21,9 @@ Your Rationale: When making this, I knew I wanted to use purple and black as pur
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=51+0n0kbRt14+E48dwffUpTkImm
+
+Your Rationale: Spring time is associated with light colors and the beginning of new growth, so using green in the color palette is a good jumping off point. Looking online, a lot of pictures from the Chicago Botanical Gardens in the spring have tulips in bloom. Since there were some yellow tulips I adjusted the pallete so that one of the adjacent colors was a bit more on the yellow side. At this point I wanted the colors to appear more pastel-like. Looking at the presets there were a couple pastel options and I choose the "Lighter Pale Pastel" pallete because I feel that it invokes the colors of spring without having the colors pop out as the pastel tints are softer.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
