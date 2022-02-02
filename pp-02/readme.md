@@ -27,10 +27,11 @@ Your Rationale: Spring time is associated with light colors and the beginning of
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=30s0u0ksTPjmzPopEPgxDPoKcPs
+
+Your Rationale: This one was a bit trickeier to create. I used orange for the main color in the pallete as it's associated with themes such as energy and friendliness. With the triad option, the other two colors were green and blue which were also more welcoming colors. I also decided that unlike the other color palettes, the colors would be more saturated and lighter, but not quite neon-like so it pops out more. Since this website is mostly catered towards kids, hopefully the light colors catch the kids' attentions.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
 Your Palette URL:
-Your Rationale:
+Your Rationale: 
