@@ -15,8 +15,8 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=14C0u0k9f2L3YeN3d61fQ2Cm32w
+Your Rationale: When making this, I knew I wanted to use purple and black as purple is associated with creativity and black is associated with mystery. With these colors, they could express how innovative this hypothetical console is while adding some element of mystery it holds and what features seperates is from the other consoles. From there, I made it so that the palette contains shades of a very dark purple. That way, it almost comes off as being black without being a full shade of black, but you can still notice the purples if you look closely.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
