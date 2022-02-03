@@ -33,5 +33,6 @@ Your Rationale: This one was a bit trickeier to create. I used orange for the ma
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale: 
+Your Palette URL: https://paletton.com/#uid=c1q2P3r4U0k2+tw15Ou27AY3ypo3Ols
+
+Your Rationale: For this palette, I wanted to aim for colors that were more subdued and give it a "clean" look. Since it is an advertisement, I did kind of want the text colors to pop out more so than the backgrounds. This is why one of the colors I choose is an offwhite/creamy and a greyish-blue color. The other two colors included are tones of purple and green that pair with the grey and beige well. I also wanted the pallette to give off a sense of formality which was another reason I wanted to have an offwhite and grey color in there.
