@@ -30,7 +30,7 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/bars/sidebars/
-* Describe how you implemented that guideline in your sketch:
+* Describe how you implemented that guideline in your sketch: Referring to the sketches labeled "redesign-naivigation" and "redesign-sidebar" I decided to use a combination of the guidelines from the sidebar and navigation bar, but moreso the sidebar. I wanted to keep the menu as a sidebar but as to not take away from the space for the form so I moved the menu bar above with an indication that it can be tapped or possibly swiped to to access it. In the menu itself, I made sure that I gave the names in the side navigation the right amount of room so they wouldn't be bunched up together. I also made sure to point out in the sketch that you can re-hide the sidebar by tapping or swiping away as on the current website, you have to hit the "Close Menu" button to hide it. As stated earlier, hiding the sidebar will give more room for the form itself, but users will still know it would be accessible to them when they first get on the page.
 
 * HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/controls/text-fields/
 * Describe how you implemented that guideline in your sketch:
