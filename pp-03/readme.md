@@ -36,7 +36,7 @@ Small commits to your Production Problems repository that include:
 * Describe how you implemented that guideline in your sketch: Referring to redesign-text-field.jpg, I made sure to have a clear button show up in the input field when highlighted by the user. With the password fields, the website hides the data entered, so that is carried over in the redesign. In redesign-data-entry.jpg, I got rid of the "Address 2" label and instead moved it closer to the "Address". To compensatae, I put a hint in the text field to communicate to the user what they can put in that field along with the fact that it's optional. 
 
 * HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/data-entry/
-* Describe how you implemented that guideline in your sketch:
+* Describe how you implemented that guideline in your sketch: For the last sketch (redesign-data-entry.jpg) it focuses a lot on the "Data Entry" guideline but takes a bit of inspiration from using a picker wheel for the select input with choosing a state. When it came to providing reasonable default values for the select fields. The "Country" field is defaulted to the US but the "State" field is not. I thought it would make sense to have Illinois as the default select since I feel it would make sense for Illinois residents to make an account for an art museum website in Chicago. I also followed the rule of enabling advancement after collecting all required fields. I tried to show that in the sketched by pointing out how the "Create Account" button should be grayed out until all required fields are entered.  
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
