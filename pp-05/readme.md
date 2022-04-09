@@ -16,16 +16,21 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
+1. https://web.wsu.edu/2015/07/15/website-usability-checklist/
 2.
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
+1. **Orientation** 
+- Users clearly know the name of the organization store at all times. Users know what is offered by the succulent shop throughout their entire time on the website. 
+2. **Labels**
+- Label for items and for content sections are clear, written with common terms for users, and are directly related to the content following. Class and id are also named the same way. Page titles are also held to this standard
+3. **Links**
+- Links names are accurate to the content that users reach when they are clicked and are visually distinct from non-hyperlink text.
+4. **Navigation**
+- Navigation process is clear and identifiable. There is a clear way to move throughout the checkout process and get to different pages. Users can return to the home page at any time. Users can get back to the top of the page quickly (when necessary). 
+5. **Visual Design**
+- Content is clear and aesthetically pleasing. Colors are consistent with the color scheme. Layout is clean, legible, and readable.
 6.
 7.
 8.
