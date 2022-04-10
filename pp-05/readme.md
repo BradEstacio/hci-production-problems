@@ -17,7 +17,7 @@ for your first (and second) round of usability testing.
 * URLs for the usability checklists you’ve found:
 
 1. https://web.wsu.edu/2015/07/15/website-usability-checklist/
-2.
+2. https://html.com/blog/website-testing-usability-checklist/
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
@@ -31,8 +31,13 @@ for your first (and second) round of usability testing.
 - Navigation process is clear and identifiable. There is a clear way to move throughout the checkout process and get to different pages. Users can return to the home page at any time. Users can get back to the top of the page quickly (when necessary). 
 5. **Visual Design**
 - Content is clear and aesthetically pleasing. Colors are consistent with the color scheme. Layout is clean, legible, and readable.
-6.
-7.
-8.
-9.
-10.
+6. **Readability**
+- Font and text is clear and consistent on all pages. Bold, upper-caps, and italics are used sparingly and only to highlight things only when needed.
+7. **Information**
+- Users are able to quickly scan through pages to find the information they need. Text is also short and scannable.
+8. **Functionality**
+- The website should be usable across various browsers. Even if certain elements are unable to display (i.e., images), the website can still function properly and attribtues are set in place (i.e., alt) to describe the information.
+9. **Errors**
+- There are no spelling errors on the website. Error messages are provided to the user when needed and give suggestions.
+10. **Screen Size**
+- The website prioritizes designing for mobile/smaller screen sizes. As the size screen increases, grids are used to help adjust the layout of the website.
